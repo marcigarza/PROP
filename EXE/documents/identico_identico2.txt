@@ -1,0 +1,5 @@
+identico
+identico2
+
+
+Soy un documento identico a otro documento para poder comprobar que la comparación funciona correctamente en estos casos.

@@ -1,0 +1,8 @@
+L'executable del programa sencer está a la carpeta de EXE amb el nom PROP_Sencer.jar,
+ es necesari per a l'execució d'aquest executable que els fitxers symbol.txt i wholeWords.txt siguin al mateix directori que ell.
+
+Quan toqui introduir el contingut d'un document, si us plau, pulseu ctrl+D per a terminar l'entrada.
+
+En algunes clases es necesari fer la compilació amb:
+javac *.java
+Recomanem compilar aixi totes les clases.

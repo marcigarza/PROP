@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GestorDocumentos:jar">
+    <output-path>$PROJECT_DIR$/EXE</output-path>
+    <root id="archive" name="GestorDocumentos.jar">
+      <element id="module-output" name="CD_Entrega2" />
+    </root>
+  </artifact>
+</component>

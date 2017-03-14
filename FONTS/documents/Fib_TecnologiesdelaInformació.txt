@@ -1,0 +1,6 @@
+Fib
+Tecnologies de la Informació
+
+Capacita per realitzar el disseny, construcció i la instal•lació de la infraestructura necessària (processadors, equips i software informàtic, xarxes de computadors, etc.) per a satisfer necessitats de diferents tipus d’organitzacions. Aquestes necessitats inclouen servidors i aplicacions web, accés a la xarxa pels usuaris, xarxes internes, serveis de computació i aplicacions, mecanismes de control i protecció de la seguretat, sistemes mòbils, sistemes distribuïts, sistemes integrats, distribució de informació, etc.
+
+Un Graduat/da especialista en TI aprendrà sobre xarxes, les seves aplicacions, sistemes operatius, sistemes i aplicacions distribuïts i tot el necessari per a resoldre problemes considerant els requisits d’organitzacions tant diverses com hospitals, organismes públics, industries de tot tipus, petites i mitjanes empreses i grans empreses. Les sortides professionals són molt diverses, ja que pot treballar com a responsable de xarxes i sistemes d'un hospital, com a responsable de tecnologies de la informació d'un important centre comercial o de la infraestructura informàtica i de la xarxa d’una fabrica, per citar alguns exemples.
